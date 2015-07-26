@@ -5,20 +5,20 @@ This program started as a [haiku](https://en.wikipedia.org/wiki/Haiku_in_English
 Anyway, as I was doing it I realised that it would be fun for it to be expandable to other syllable counts, so that you could use it to generate [cut-up](https://en.wikipedia.org/wiki/Cut-up_technique) lyrics to fit existing melodies, so I implemented this.
 
 For example, if you wanted to cut-up generate alternative lyrics to to the "Happy Birthday" song, on the topic of, say, frogs, you'd enter a few words related to frogs along with their syllables in your dialect:
-frog - 1
-frogs - 1
-legs - 1
-spawn - 1
-amphibian - 4
-green - 1
-pond dweller - 3
+frog - 1/n
+frogs - 1/n
+legs - 1/n
+spawn - 1/n
+amphibian - 4/n
+green - 1/n
+pond dweller - 3/n
 
 Then specify 4 lines, with 6, 6, 7 and 6 syllables, and get the following:
 
-GREEN FROG LEGS POND DWELLER
-POND DWELLER FROGS GREEN LEGS
-AMPHIBIAN FROG GREEN LEGS
-GREEN FROG SPAWN POND DWELLER
+GREEN FROG LEGS POND DWELLER/n
+POND DWELLER FROGS GREEN LEGS/n
+AMPHIBIAN FROG GREEN LEGS/n
+GREEN FROG SPAWN POND DWELLER/n
 
 which you can sing along to Happy Birthday if you like. Not certain why you'd want to, and I'm not curing cancer here, but I'll definitely be using it to come up with placeholder lyrics in songwriting in the future.
 
